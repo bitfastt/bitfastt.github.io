@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /bitfastt.github.io/
+Disallow: /assets/
+Disallow: /.git/
